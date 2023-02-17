@@ -204,3 +204,11 @@ main footer a {
 main footer a:hover {
   color: #267B6A;
 }
+
+@media (max-width: 900px) { 
+
+main form {
+width: 500px;
+
+}
+}
